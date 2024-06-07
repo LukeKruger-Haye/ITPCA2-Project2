@@ -17,6 +17,8 @@
           Console.WriteLine(horse.print_horse());
 
           if (horse.distance >= 30) horse.finished = true;
+
+          Console.WriteLine("Test");
         }
       }
     }
