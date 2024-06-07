@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYF9eUVtd6BhaULuOb7S2tvHmffNaFKpm27DbW8Gp0CYppISbw8h7jHI4ZErbFeHUtu8n1ZEZz7drOxDnMWhfg==",
+  "success": true,
+  "projectFilePath": "/home/yukii/Documents/Question 3/Question 3.csproj",
+  "expectedPackageFiles": [
+    "/home/yukii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

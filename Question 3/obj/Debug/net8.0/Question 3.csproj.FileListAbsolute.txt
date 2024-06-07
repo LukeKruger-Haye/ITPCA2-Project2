@@ -1,0 +1,14 @@
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.AssemblyInfoInputs.cache
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.AssemblyInfo.cs
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.csproj.CoreCompileInputs.cache
+/home/yukii/Documents/Question 3/bin/Debug/net8.0/Question 3
+/home/yukii/Documents/Question 3/bin/Debug/net8.0/Question 3.deps.json
+/home/yukii/Documents/Question 3/bin/Debug/net8.0/Question 3.runtimeconfig.json
+/home/yukii/Documents/Question 3/bin/Debug/net8.0/Question 3.dll
+/home/yukii/Documents/Question 3/bin/Debug/net8.0/Question 3.pdb
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.dll
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/refint/Question 3.dll
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.pdb
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/Question 3.genruntimeconfig.cache
+/home/yukii/Documents/Question 3/obj/Debug/net8.0/ref/Question 3.dll

@@ -1,0 +1,28 @@
+/home/yukii/Documents/Question 4/bin/Debug/net8.0/Question 4
+/home/yukii/Documents/Question 4/bin/Debug/net8.0/Question 4.deps.json
+/home/yukii/Documents/Question 4/bin/Debug/net8.0/Question 4.runtimeconfig.json
+/home/yukii/Documents/Question 4/bin/Debug/net8.0/Question 4.dll
+/home/yukii/Documents/Question 4/bin/Debug/net8.0/Question 4.pdb
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfoInputs.cache
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfo.cs
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.csproj.CoreCompileInputs.cache
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.dll
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/refint/Question 4.dll
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.pdb
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/Question 4.genruntimeconfig.cache
+/home/yukii/Documents/Question 4/obj/Debug/net8.0/ref/Question 4.dll
+/home/yukii/Documents/ITCPA Project/Question 4/bin/Debug/net8.0/Question 4
+/home/yukii/Documents/ITCPA Project/Question 4/bin/Debug/net8.0/Question 4.deps.json
+/home/yukii/Documents/ITCPA Project/Question 4/bin/Debug/net8.0/Question 4.runtimeconfig.json
+/home/yukii/Documents/ITCPA Project/Question 4/bin/Debug/net8.0/Question 4.dll
+/home/yukii/Documents/ITCPA Project/Question 4/bin/Debug/net8.0/Question 4.pdb
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfoInputs.cache
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfo.cs
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.csproj.CoreCompileInputs.cache
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.dll
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/refint/Question 4.dll
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.pdb
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/Question 4.genruntimeconfig.cache
+/home/yukii/Documents/ITCPA Project/Question 4/obj/Debug/net8.0/ref/Question 4.dll
