@@ -17,16 +17,15 @@
           Console.WriteLine(horse.print_horse());
 
           if (horse.distance >= 30) horse.finished = true;
-
-          Console.WriteLine("Test");
         }
       }
     }
 
     Horse find_winner(Horse[] horses) {
       foreach (Horse horse in horses) {
-        
+        lowest = Math.Min(lowest, horse.distance);      
       }
+
     }
 
     static void Main(string[] args) {
@@ -48,8 +47,6 @@
 
         p.simulate_round(horses);
       }
-
-      Console.WriteLine()
     }
   }
 }

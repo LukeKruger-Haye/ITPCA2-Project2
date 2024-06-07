@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yukii/Documents/ITCPA Project/Question 4/Question 4.csproj",
+      "projectUniqueName": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj",
       "projectName": "Question 4",
-      "projectPath": "/home/yukii/Documents/ITCPA Project/Question 4/Question 4.csproj",
+      "projectPath": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj",
       "packagesPath": "/home/yukii/.nuget/packages/",
-      "outputPath": "/home/yukii/Documents/ITCPA Project/Question 4/obj/",
+      "outputPath": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yukii/.nuget/NuGet/NuGet.Config"
