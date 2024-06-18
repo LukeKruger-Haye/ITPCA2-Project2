@@ -41,3 +41,18 @@
 /home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4.pdb
 /home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.genruntimeconfig.cache
 /home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/obj/Debug/net8.0/ref/Question 4.dll
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfoInputs.cache
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.AssemblyInfo.cs
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.csproj.CoreCompileInputs.cache
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.sourcelink.json
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.dll
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/refint/Question 4.dll
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.pdb
+/home/luke/Documents/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4
+/home/luke/Documents/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4.deps.json
+/home/luke/Documents/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4.runtimeconfig.json
+/home/luke/Documents/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4.dll
+/home/luke/Documents/ITPCA2-Project2/Question 4/bin/Debug/net8.0/Question 4.pdb
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/Question 4.genruntimeconfig.cache
+/home/luke/Documents/ITPCA2-Project2/Question 4/obj/Debug/net8.0/ref/Question 4.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj": {}
+    "/home/luke/Documents/ITPCA2-Project2/Question 4/Question 4.csproj": {}
   },
   "projects": {
-    "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj": {
+    "/home/luke/Documents/ITPCA2-Project2/Question 4/Question 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj",
+        "projectUniqueName": "/home/luke/Documents/ITPCA2-Project2/Question 4/Question 4.csproj",
         "projectName": "Question 4",
-        "projectPath": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/Question 4.csproj",
-        "packagesPath": "/home/yukii/.nuget/packages/",
-        "outputPath": "/home/yukii/Documents/Git Repos/ITPCA2-Project2/Question 4/obj/",
+        "projectPath": "/home/luke/Documents/ITPCA2-Project2/Question 4/Question 4.csproj",
+        "packagesPath": "/home/luke/.nuget/packages/",
+        "outputPath": "/home/luke/Documents/ITPCA2-Project2/Question 4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/yukii/.nuget/NuGet/NuGet.Config"
+          "/home/luke/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
