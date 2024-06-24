@@ -16,47 +16,41 @@
           horse.add_distance(rnd.Next(0, 11));
           Console.WriteLine(horse.print_horse());
 
-          //if (horse.distance >= 30) horse.finished = true;
+          if (horse.distance >= 30) horse.finished = true;
         }
       }
-    }
-
-    Horse find_winner(Horse[] horses) {
-      int lowest = 50;
-      Horse lowest_horse = new Horse();
-
-      foreach (Horse horse in horses) {
-        if (lowest > horse.distance) {
-          lowest = horse.distance;
-          lowest_horse = horse;
-        }
-      }
-    
-      return lowest_horse;
     }
 
     static void Main(string[] args) {
       Program p = new Program();
       bool all_finished = false;
+      bool found_winner = false;
       int count = 0;
       Horse[] horses = new Horse[NUM_HORSES];
+      Horse winner = new Horse();
 
       p.init_horses(horses);
 
       while (!all_finished) {
+        all_finished = true;
+
         p.simulate_round(horses);
 
-        foreach (Horse horse in horses) {
-          if (horse.finished) {
-            count++;
+        if (!found_winner) {
+          foreach (Horse horse in horses) {
+            if (horse.finished) {
+              winner = horse;
+              found_winner = true;
+            }
           }
+        }
 
-          if (count == 5) all_finished = true;
+        foreach (Horse horse in horses) {
+          if (!horse.finished) {
+            all_finished = false;
+          }
         }
       }
-
-      Horse winner = new Horse();
-      winner = p.find_winner(horses);
 
       Console.WriteLine("Winner: {0}, distance: {1}", winner.id, winner.distance);
     }
